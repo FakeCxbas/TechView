@@ -1,0 +1,23 @@
+# Entornos
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Modelos pesados
+*.pt
+
+# Logs
+*.log
+
+# Audio
+*.wav
+
+# Carpetas de ejecución
+runs/
+
+# Sistema
+.DS_Store
+Thumbs.db
